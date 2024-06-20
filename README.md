@@ -1,4 +1,5 @@
- # Hi there! 👋 I'm Ravi Balebilalu
+ # Hi there! 
+ - 👋 I'm Ravi Balebilalu
 -About Me
 -I'm a passionate developer and data enthusiast from the Western Ghats of Karnataka, India. With a strong interest in data science, web development, and Linux, I love exploring and creating solutions that make a difference.
 

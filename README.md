@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ravibalebilalu
-- 👀 I’m interested in Datascience
-- 🌱 I’m currently learning basic ds
--
--
+ 👋 Hi, I’m Ravibalebilalu
+ 👀 I’m interested in Datascience and web development
+ 
 
 <!---
 ravibalebilalu/ravibalebilalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
